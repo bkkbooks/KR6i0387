@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0387_000.yaml, hash: 'sha256:62b0ba0c12bd6148590f22067529f44b0306ba5ed8faf0936e8dfd613358f54c'}
-  - {seq: 1, filename: KR6i0387_001.yaml, hash: 'sha256:3639e1ddf629230d1bbf637d6d810bf93dc75615222ba2cb3f6e6828f0412f18'}
+  - {seq: 1, filename: KR6i0387_001.yaml, hash: 'sha256:0aba9d6d5350c2c0f6476abaa9b3b9ff78b0161a01ce59fb2f2459a85a13945b'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0387_001.markers.yaml, hash: 'sha256:ddd3ba4af613b1f75cde6b002045a48398c5bc5403f9bd2af6340535bca5ede0'}
+  - {seq: 0, role: markers, filename: assets/KR6i0387_000.markers.yaml, hash: 'sha256:df5e64196d739177dcd939211df3534a149d2d211a8b6e1a110afc531f8b1f40'}
+  - {seq: 1, role: markers, filename: assets/KR6i0387_001.markers.yaml, hash: 'sha256:5fc8b09279a05b5fd9cdf0e4e392e1c273e1f3f4d361598f291d2a7fb771c921'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 佛說浴像功德經
   type: juan
   level: 1
-hash: sha256:61f6d534047b3d606c10adb3706d4754cc0fd157c52f25b2003ca327199b9ff6
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:834819911305e3d6423f2b8ce43df005000dcbd77480afd8eaa3721b1702865e
