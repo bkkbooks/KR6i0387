@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0387/v1
 canonical_location: https://kanripo.org/bkk/KR6i0387/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說浴像功德經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0387_000.yaml, hash: 'sha256:62b0ba0c12bd6148590f22067529f44b0306ba5ed8faf0936e8dfd613358f54c'}
-  - {seq: 1, filename: KR6i0387_001.yaml, hash: 'sha256:0aba9d6d5350c2c0f6476abaa9b3b9ff78b0161a01ce59fb2f2459a85a13945b'}
+  - {seq: 1, filename: KR6i0387_001.yaml, hash: 'sha256:e979fd33479edc2cb1ddce705a1b90fd6779b2a50c7c6a0a112b95e64977ce30'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0387_000.markers.yaml, hash: 'sha256:df5e64196d739177dcd939211df3534a149d2d211a8b6e1a110afc531f8b1f40'}
-  - {seq: 1, role: markers, filename: assets/KR6i0387_001.markers.yaml, hash: 'sha256:5fc8b09279a05b5fd9cdf0e4e392e1c273e1f3f4d361598f291d2a7fb771c921'}
+  - {seq: 1, role: markers, filename: assets/KR6i0387_001.markers.yaml, hash: 'sha256:846de448f25f24d4599e77033d99cd04b9fedbdb78247bdfd3fc8ae8df8f984c'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,4 +46,7 @@ table_of_contents:
   label: 佛說浴像功德經
   type: juan
   level: 1
-hash: sha256:834819911305e3d6423f2b8ce43df005000dcbd77480afd8eaa3721b1702865e
+hash: sha256:268fac814d1b249771c624d0e137fb2dcd7b4e6e06b1c6f9e6636b9f5c1e0750
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
